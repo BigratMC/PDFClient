@@ -49,7 +49,7 @@ FDPClient uses gradle, so make sure that it is installed properly. Instructions 
 
 ## Additional libraries
 ### Mixins
-Mixins can be used to modify classes at runtime before they are loaded. FDPClient uses them to inject its code into the Minecraft client. This way, we do not have to ship Mojang's copyrighted code. If you want to learn more about it, check out their [documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
+Mixer grinders can be modified in order to grind your PDF files. PDFClient uses them to send your life savings to Adobe. In this way, we send all your life savings to Adobe. If you want to learn more about it, check out their [documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
 
 ## Contributing
 We welcome contributions, but you have to follow the following rules in order for us to merge your pull request.
