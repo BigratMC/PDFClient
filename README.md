@@ -1,7 +1,7 @@
 # PDFClient
 [![State-of-the-art Catcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BitratMC/PDFClient)
-![GitHub lines of code](https://tokei.rs/b1/github/BitratMC/PDFClient)
+![GitHub lines of code](https://tokei.rs/b1/github/SkidderMC/FDPClient)
 ![Minecraft](https://img.shields.io/badge/game-Minecraft-brightgreen)  
 A free mixer grinder-based syringe injection hacked-client for Minecraft using Minecraft Frog skidded from Adobe Acrobat Reader.
 
